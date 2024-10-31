@@ -1,3 +1,5 @@
+![Banner](resources/banner.png)
+
 # Test runner for the Libft 42 École project
 - A test suite with happy path testing, unhappy path tests, and valgrind to test memory leaks.
 
